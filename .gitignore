@@ -1,0 +1,10 @@
+#Ignore temp files
+*~
+#Ignore object files
+/obj
+*.o
+#Ignore execute files
+bin/
+#...
+build/
+*.swp
